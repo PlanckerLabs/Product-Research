@@ -1,0 +1,871 @@
+0
+00:00:01,140 --> 00:00:06,180
+Good morning. Present. Morning actually been good.
+
+1
+00:00:07,020 --> 00:00:11,810
+Okay, great. So since your morning, what's uh, talk about building stuff?
+
+2
+00:00:12,110 --> 00:00:12,870
+Uh, so
+
+3
+00:00:13,690 --> 00:00:16,350
+things that, UH? So this is just to
+
+4
+00:00:16,590 --> 00:00:22,350
+kind of give a few different categories of ideas that I think are really worthwhile
+
+5
+00:00:22,740 --> 00:00:28,340
+for people to start building and to start, like, really concretely working on, like, right now.
+
+6
+00:00:28,520 --> 00:00:37,880
+And so in general, I think, like a lot of things have changed in the crypto space and in the ethereum and of development world in particular, in the last two years.
+
+7
+00:00:38,040 --> 00:00:50,240
+Like a lot of technology is that were like, really just like thoughts and ideas and theories two years ago have like, slowly become very real over the last couple of years.
+
+8
+00:00:50,300 --> 00:00:55,080
+And in a few voices recently, like, I've talked about what some of those changes are, right?
+
+9
+00:00:55,140 --> 00:01:06,860
+Look, one is the fact that, you know, we have roll ups, we have scaling, things are getting cheaper again, so a lot of applications are just much more economically viable than they were one or two years ago.
+
+10
+00:01:07,020 --> 00:01:18,220
+And so, you know, when before, like, you might even say, well, maybe defy is the only thing that makes sense to build, because defy is the only thing where people are willing to pay, like, $12 a transaction.
+
+11
+00:01:18,380 --> 00:01:23,740
+Well, now, you know, transactions are cost much less than $12, and roll ups are getting better every day.
+
+12
+00:01:23,900 --> 00:01:28,200
+So there's a lot of other things that you can build as well, right?
+
+13
+00:01:28,440 --> 00:01:38,260
+Another really big and really important thing that's been happening over the last five years is the growth of a zero knowledge technology.
+
+14
+00:01:38,420 --> 00:01:56,270
+Right? So, like, I actually think that ZK snarks might be, like, almost even equally as important to the kind of, you know, privacy, openness, you know, freedom, kind of alternative, decentralized web tech movements as blockchains are like, they're actually extremely powerful tools.
+
+15
+00:01:56,430 --> 00:02:10,110
+They're extremely, uh, effective at giving us privacy and giving us scalability and and at the same time a pres uh, preserving security, which is a similar thing to what blockchains are trying to do, right?
+
+16
+00:02:10,270 --> 00:02:16,070
+And in some ways, like zero knowledge proofs and blockchains are actually very good compliments for each other, right?
+
+17
+00:02:16,230 --> 00:02:23,650
+Because blockchains give you a lot of security, but in exchange, they sacrifice privacy and they sacrifice skillability.
+
+18
+00:02:24,060 --> 00:02:27,920
+Ziki snarks give you back privacy, and they can give you back scalability.
+
+19
+00:02:28,260 --> 00:02:31,120
+Um? So build Zika apps, right?
+
+20
+00:02:31,160 --> 00:02:41,510
+Basically, I think we've now gotten to the point where the YAT tools for building of what are ziki's dark applications are just getting better and better every year.
+
+21
+00:02:41,510 --> 00:02:43,650
+The protocols are getting better and better.
+
+22
+00:02:43,810 --> 00:02:51,220
+Our ability to prove the like make proofs that you can actually prove on a computer in a reasonable amount of time.
+
+23
+00:02:51,380 --> 00:03:01,840
+As I getting better and better, I remember in 2016, when the 1st version of z Cash launched, it took like, more than 1 min to generate a signature.
+
+24
+00:03:02,180 --> 00:03:12,270
+And today, like all of these applications, they can generate proofs in like somewhere, sometimes 3 s, sometimes like less than 1 s, depending on, uh, you know, what technology you're using.
+
+25
+00:03:12,620 --> 00:03:22,680
+So builds your knowledge applications. Um, zero knowledge applications are, I think, a great for both privacy and a scalability.
+
+26
+00:03:22,900 --> 00:03:27,180
+Um, right. So I'm here, like, I-I have this a link to a, yeah, block post.
+
+27
+00:03:27,340 --> 00:03:30,010
+If you just, uh, g, if you just go to VITELLOK, dot c.
+
+28
+00:03:30,030 --> 00:03:40,270
+A., or if it, or if it's a wiki dot, if, uh, dot link, uh, either one, I mean, and you just like scrolled down the list, um, I uh, wrote this post about one or two months ago.
+
+29
+00:03:40,370 --> 00:03:51,100
+Or just talk about some of the ways that you can use as your knowledge proofs, uh, to actually build, uh, many kinds of applications that, uh, preserve privacy.
+
+30
+00:03:51,490 --> 00:03:55,730
+And there's also a lot of applications of of your knowledge groups for scalability, right?
+
+31
+00:03:55,790 --> 00:04:04,710
+So Z-K rollups are a great example, and there's a bunch of teams buildings, z hero ups for the EVM, which I think is great.
+
+32
+00:04:04,870 --> 00:04:09,410
+Um, privacy, I think, is still a bit less explored than, uh, scalability, actually.
+
+33
+00:04:09,450 --> 00:04:23,400
+So, just like some interesting examples of privacy preserving applications that might make sense to work on, UM, privacy preserving, like, proof of humanity, or privacy preserving proof of pope.
+
+34
+00:04:23,640 --> 00:04:42,950
+Like, basically, like in Ethereum, we have, we're, we're starting to have, like, more and more of these protocols, where they're basically issuing, like, some kind of at a station to d, like, um, at different, like, specific addresses to say something about the person who controls that address, right?
+
+35
+00:04:43,340 --> 00:04:45,660
+So the Proof of Humanity protocol, e.g.
+
+36
+00:04:45,820 --> 00:05:00,520
+it's a protocol um where if you you have to sign up, and there's like a dow that verifies submissions, and if it accepts you, then it basically says like, this address corresponds to some unique human
+
+37
+00:05:00,880 --> 00:05:04,560
+right? So it's not about, it's not like one person having 5000 accounts.
+
+38
+00:05:04,720 --> 00:05:07,420
+It's like one specific person that has one account.
+
+39
+00:05:07,510 --> 00:05:17,810
+And if you do, if you have perfect humanity as an ingredient, then, like y, you can start building a lot more powerful applications.
+
+40
+00:05:17,970 --> 00:05:23,370
+You have, like, a lot of, a lot more room to decide, like, what kinds of things you'll be building, right?
+
+41
+00:05:23,530 --> 00:05:29,590
+So, e.g. you could build an airdrop, where, instead of, like, doing an airdrop, just based
+
+42
+00:05:29,810 --> 00:05:40,820
+on, um, you know, how, like, how many coins does someone have, how many transactions have someone sent, you can like, say, I'm going to actually give like, 15 coins to every single human, right?
+
+43
+00:05:40,980 --> 00:05:44,300
+Um, you know, you could do, like, even n.
+
+44
+00:05:44,360 --> 00:05:46,860
+f. T. sales in a way that's more fair.
+
+45
+00:05:47,020 --> 00:05:56,690
+Um, you can do sale a, just create market mechanisms that try to be, like, more fair to individual people in some way, um, I'll talk about this later.
+
+46
+00:05:56,710 --> 00:06:06,890
+But, like, there's also, um, ways to make, uh, decentralized governance more fair, if you try to, like, count humans instead of just counting coins and privacy.
+
+47
+00:06:07,050 --> 00:06:19,660
+Preserving proof of Pope. So POPE, the proof of Attendance Protocol, is a protocol that, like, basically, let's you say this address belongs to someone who actually participated at some events.
+
+48
+00:06:19,820 --> 00:06:28,150
+Right? So, like, I went to, you know, a conferency in Argentina last year, and I got a pope for it, right?
+
+49
+00:06:28,310 --> 00:06:34,090
+So there is a pope that that that got given out to everyone who visited this conference in Argentine.
+
+50
+00:06:34,370 --> 00:06:40,810
+And so you don't just know that this person is a human, but you you actually know, like, what kind of communities they're part of.
+
+51
+00:06:40,970 --> 00:06:47,630
+And, like, what a diff no how much have they participated in, like, in different kinds of communities, right?
+
+52
+00:06:47,690 --> 00:06:49,770
+So you get more of this kind of information.
+
+53
+00:06:49,890 --> 00:06:55,070
+Now, one of the big challenges with both of these protocols is privacy, right?
+
+54
+00:06:55,230 --> 00:07:00,930
+Like, you're basically revealing to the anyone who can read the blockchain, like, who you are.
+
+55
+00:07:00,930 --> 00:07:03,610
+And this is a big privacy risk.
+
+56
+00:07:03,680 --> 00:07:10,480
+But at the same time, like, I think there's a lot of of really important things that we can gain from having these protocols.
+
+57
+00:07:10,750 --> 00:07:14,190
+And so the challenge is like, how do we get the benefits without the costs?
+
+58
+00:07:14,350 --> 00:07:18,150
+Right? And zero knowledge proofs could actually help a lot here, right?
+
+59
+00:07:18,310 --> 00:07:25,700
+Like, with your knowledge proofs, you could do something like prove that you are a unique human without revealing which human you are.
+
+60
+00:07:26,040 --> 00:07:39,080
+You could prove that you have a pope and that you attended like, five events from a particular list, without revealing, like, which events you attend, specifically attended, and without revealing, like, what your actual identity is.
+
+61
+00:07:39,280 --> 00:07:42,150
+So a lot of interesting applications there.
+
+62
+00:07:42,310 --> 00:07:51,010
+Um Z-K Negative reputation. Uh. So this is actually one of the sort of more advanced Apple um examples in this post that I wrote.
+
+63
+00:07:51,160 --> 00:08:00,030
+Basically, the idea is to have a reputation system where you can make at the stations that are not just positive, but also negative.
+
+64
+00:08:00,190 --> 00:08:18,840
+Um, so you'll be able to prove things like, you know, I have, like, I participated in some decentralized social media platform, and I made these posts, they got uploaded, but I did not, but I also did not get downloaded, or, like, I also did not, like, have, did not get flagged for abuse.
+
+65
+00:08:18,930 --> 00:08:24,850
+So you can do, like, all of these things, but at the same time also preserve people's privacy, right?
+
+66
+00:08:24,890 --> 00:08:27,670
+Is your knowledge and MPC data marketplaces?
+
+67
+00:08:27,830 --> 00:08:36,910
+This is interesting, like, I think a lot of people have been interested in this idea of, like, creating, like, more fair market voices for data.
+
+68
+00:08:37,070 --> 00:08:42,270
+Um. And, yeah, you know, there's applications of this in health care.
+
+69
+00:08:42,430 --> 00:08:45,450
+There is applications of this and, like, a lot of different spaces.
+
+70
+00:08:45,510 --> 00:08:50,850
+But there the problem is that, like, it's not just evocing problem, right?
+
+71
+00:08:51,010 --> 00:08:59,650
+Because you are trying to solve a trust problem, but the trust problem you're trying to solve is not just the kind of trust problem that of watching solves.
+
+72
+00:08:59,810 --> 00:09:02,010
+You're also trying to solve a problem of privacy, right?
+
+73
+00:09:02,030 --> 00:09:10,300
+A problem of, like, I wants to give a little thing about, a little piece of data about myself, but I don't want to give more data than that.
+
+74
+00:09:10,460 --> 00:09:21,020
+I mean, ideally, like, you want to even give data that contributes to, like, say, someone's a machine learning model, without actually, like, giving them, giving them the data directly, right?
+
+75
+00:09:21,180 --> 00:09:28,260
+And if he wants to do those kinds of things, then you need a different kind of cryptography called multiplayer con multiparty computation.
+
+76
+00:09:28,260 --> 00:09:34,980
+So combines your knowledge proofs and multiparty computation try to create better data, market voices.
+
+77
+00:09:35,140 --> 00:09:43,560
+I mean, this is a very advanced topic, but I think like this is the frontier, and there's a lot of exciting things that you can build here.
+
+78
+00:09:43,720 --> 00:09:50,630
+So those are just a few examples of things that you can build with as your knowledge stuff.
+
+79
+00:09:50,790 --> 00:09:52,830
+I mean, I think building with your knowledge.
+
+80
+00:09:52,850 --> 00:10:00,970
+Tech is still, it is still advanced, but it's getting less and less advanced in the tools are becoming more accessible with every year.
+
+81
+00:10:01,340 --> 00:10:07,630
+So I still minimum encourage people to really look at the attack and really consider, like, even now,
+
+82
+00:10:07,820 --> 00:10:11,860
+using using it to build something a soulbound tokens.
+
+83
+00:10:12,020 --> 00:10:13,350
+So this
+
+84
+00:10:13,540 --> 00:10:23,790
+is, um, something that, um, a couple of um articles, one that I published myself, and A-A more recent paper that I co authored about a month ago.
+
+85
+00:10:23,950 --> 00:10:30,050
+Like, basically the idea is of using tokens that are non transferable, right?
+
+86
+00:10:30,390 --> 00:10:32,430
+So the basic idea
+
+87
+00:10:32,630 --> 00:11:03,230
+here is that, like, you want to be have tokens that represent, like, say, that you actually are of a member of some community, that you actually like learn, like, approve, that you know, that you know something, that you have some experience, you proved, um, that you completed some challenge, the MM You want to, like, pro prove different things about yourself, but you want to prove that, like, actually you were the one who did those things, and you did not just, like, buy a token from someone else for $50.
+
+88
+00:11:03,480 --> 00:11:07,840
+So basically making tokens that are like, non transferable.
+
+89
+00:11:07,960 --> 00:11:13,060
+So Pope is actually a good example of this right now.
+
+90
+00:11:13,220 --> 00:11:25,900
+Pope tokens, like, they are transferable in that, like, they are ec 07:20 ones, and you can send them to someone else if you want to, but you can look on the blockchain and see, like, has this pope actually been transferred?
+
+91
+00:11:26,060 --> 00:11:34,200
+Um. And if you like, you can treat popes that are still in their original address and and popes that have been transferred, uh, differently, right?
+
+92
+00:11:34,360 --> 00:11:42,860
+Um. And I'm basically expecting that these kinds of things are going to become used for a lot, m uh, like a lot more different kinds of, uh, projects.
+
+93
+00:11:42,950 --> 00:11:48,090
+So, and I think there are a lot of, um, applications of this, right?
+
+94
+00:11:48,250 --> 00:11:51,130
+So one that I mentioned is, um, what we call soul drops.
+
+95
+00:11:51,190 --> 00:12:05,950
+So I basically airdrops, where, in order to qualify for the airdrop, like you, you try to use some of this, like on chain information, to actually figure out, like, who is in the community that you want to airdrop to, right?
+
+96
+00:12:06,110 --> 00:12:16,350
+Like, a lot of different projects they wants to airdrop, but one of the challenges that they always face is like, if you airdrop, then sometimes the airdrop just gets farmed by V-C is, right?
+
+97
+00:12:16,450 --> 00:12:18,690
+In V-C is just create a hundred thousand accounts.
+
+98
+00:12:18,800 --> 00:12:23,720
+Sometimes the airdrop, you know, just give it to random people.
+
+99
+00:12:23,940 --> 00:12:30,480
+And someone creates, like, a really efficient app where everyone can just, like, go and dump their airdrop on unic swap for 32 bucks.
+
+100
+00:12:30,660 --> 00:12:34,020
+And everyone does that, and like, you know, you have just lost a lot of money.
+
+101
+00:12:34,400 --> 00:12:39,520
+So what you want to do is, like, I think you want to distribute your token supply.
+
+102
+00:12:39,680 --> 00:12:47,660
+You don't want to have this kind of, you know, bluetocratic dystopia, where, like, seven people and VC funds control half the supply.
+
+103
+00:12:47,880 --> 00:12:53,240
+But you also want to, like, actually give the supply out to people who are actually in your community, right?
+
+104
+00:12:53,400 --> 00:13:12,540
+And so how do you tell, like, in a very verifiable, kind of automatic way, that it gives you, like, some of, you know, what we call credible neutrality, some ability to, like, actually prove to the public that you were fair in how you allocated it, and that you're not, like, quietly giving lots of coins to yourself.
+
+105
+00:13:12,800 --> 00:13:17,940
+Um, sole bound tokens might actually be a very powerful tool for doing this, right?
+
+106
+00:13:18,200 --> 00:13:21,260
+So, proof of humanity, you can, like, limit to individual people.
+
+107
+00:13:21,460 --> 00:13:38,930
+Um, you could even, like, you know, do interesting things with proof of humanity, like you could make a sort of fair I-C-O, where, if you want to, let's say, sell the f you could buy your 1st token for $1, but then buying your 2nd token cost $2, buying your 3rd token cost $3.
+
+108
+00:13:39,090 --> 00:13:41,730
+And so the more tokens you buy, the higher the price of each one goes.
+
+109
+00:13:41,890 --> 00:13:50,090
+Right? So there's like, different ways to try to create these mechanisms, to sort of make them, you know, less plutocratic and more fair um.
+
+110
+00:13:50,250 --> 00:13:54,110
+And things like proof of humanity could be a big part of it.
+
+111
+00:13:54,530 --> 00:14:06,670
+Proof of attendance protocol can be good and and similar ideas can can be good for not just checking, like, who is a human, but also checking, like, who is actually a member of a particular community.
+
+112
+00:14:06,870 --> 00:14:19,510
+Um. And I think there's a lot of, like, good ideas here, but there is a lot of room still to actually build the infrastructure to make it really easy to do these kinds of things.
+
+113
+00:14:19,770 --> 00:14:25,150
+So I think this is, like, you know, another challenge for developers, like try to actually build more of these tools.
+
+114
+00:14:25,480 --> 00:14:32,160
+Um, another, um interesting one is, uh, in this concept of, like, solebound, token gated community forums, right?
+
+115
+00:14:32,320 --> 00:14:46,690
+So, like, imagine a private chat where basically things that are said in the chat, they don't get automatically broadcasted to everyone, but they, you know, it isn't like just a couple of people who decide who gets in and who gets kicked out.
+
+116
+00:14:46,850 --> 00:15:00,100
+Instead, like, say, you have a doubt, and that Dow issues tokens, and even, like, based on some measurement of whether or not you're in a particular community, that determines whether whether or not you can get in.
+
+117
+00:15:00,400 --> 00:15:06,440
+So this, I mean, obviously, like sole bone tokens and zero knowledge, I think, like they're not separate.
+
+118
+00:15:06,600 --> 00:15:10,760
+And I there are really important synergies between them.
+
+119
+00:15:10,940 --> 00:15:14,740
+And the reason why there are really important synergies, I think, is obvious, right?
+
+120
+00:15:14,900 --> 00:15:23,750
+Because, like, there's a lot of really cool things that you can do just by having the ability to, like, know more things about the people
+
+121
+00:15:24,140 --> 00:15:30,180
+behind the addresses that you're interacting with, and being able to say, like, this person is from this community, this person is not.
+
+122
+00:15:30,340 --> 00:15:34,760
+This person is a, you know, chords developer of of this project.
+
+123
+00:15:34,960 --> 00:15:44,670
+And, you know, this person has, you know, one theory of address, but actually he is, he's mostly involved in some completely separate project in like,
+
+124
+00:15:44,860 --> 00:15:46,520
+being able to distinguish those things.
+
+125
+00:15:46,820 --> 00:15:51,180
+But the more you gain that ability, the more you're, like, breaking people's privacy, right?
+
+126
+00:15:51,340 --> 00:15:56,820
+And zero knowledge is a great way to, I'll get some of that privacy back.
+
+127
+00:15:57,000 --> 00:16:02,140
+Um. So, wha um. Another, you know, a lot of interesting ideas here.
+
+128
+00:16:02,350 --> 00:16:07,910
+Um, better public goods funding. This is something that I think we've been talking about for the last two years, right?
+
+129
+00:16:08,070 --> 00:16:12,990
+Um, basically that, like blockchain, communities need ways to find public goods.
+
+130
+00:16:13,150 --> 00:16:22,970
+Public goods are important for everyone, but they're especially important in blockchain communities because Boston communities are Internet communities.
+
+131
+00:16:23,130 --> 00:16:38,430
+They depend heavily on open source software, public documentation that gets written on the Internet, people making translations, just all kinds of work that's completely done in the open, and it's extremely valuable.
+
+132
+00:16:38,590 --> 00:16:41,360
+But there is not a good way to charge for it, right?
+
+133
+00:16:41,520 --> 00:16:59,280
+So better ways of, like, funding it, and of like actually using, um, you know, community pools of funds to support those things, and even to support public goods either go beyond the blockchain space is something that I think is, like, really important to care about right now.
+
+134
+00:16:59,560 --> 00:17:02,520
+How can we do this? I mean, so quadratic funding is interesting.
+
+135
+00:17:02,680 --> 00:17:09,180
+So the Gitcoin team has been doing these experiments for the last two years, these quadratic funding rounds.
+
+136
+00:17:09,520 --> 00:17:16,330
+And at the beginning, it was like this thing where he had like a $25000 matching pool, and basically nobody cared about it.
+
+137
+00:17:16,590 --> 00:17:29,430
+But I think over time, we've seen it like really grow and balloon, and now it's this big, I'm, you know, $5000000 thing, and you have just these really big matching pools that happen every you get every couple of months, which I think is amazing.
+
+138
+00:17:29,560 --> 00:17:45,950
+But there is still, like, opportunities to improve quadratic funding and to try to make it the mechanism better, make it more um, you know, safe against attacks, make it more privacy preserving, and all of these things, So that this is one part of the public goods problem.
+
+139
+00:17:46,590 --> 00:17:55,390
+Another way to look at the public goods problem is to look at it from the perspective of, like, credit assignment, right?
+
+140
+00:17:55,550 --> 00:18:12,670
+Um. So let's say that someone invents some amazing news your knowledge proof protocol, and this new zero knowledge proof protocol is like, makes it, let's say, ten times cheaper to scale ethereium roll ups and to proof privacy.
+
+141
+00:18:12,830 --> 00:18:17,110
+UM And it has some other magic, amazing properties right now.
+
+142
+00:18:17,270 --> 00:18:22,990
+This is a public good. It's something that, once you do it, it's in the open, it gets published, it benefits everyone.
+
+143
+00:18:23,150 --> 00:18:25,190
+It doesn't even just benefit the ethereum community.
+
+144
+00:18:25,290 --> 00:18:28,250
+It benefits, you know, every crypto community.
+
+145
+00:18:28,410 --> 00:18:35,190
+It goes like, it could even benefit, like, lots of mainstream, you know, industrial applications, lots of government applications.
+
+146
+00:18:35,500 --> 00:18:39,860
+It can make civil society more applications more secure.
+
+147
+00:18:40,020 --> 00:18:42,480
+So it's a very public good.
+
+148
+00:18:42,930 --> 00:18:50,330
+But one of the ways of, like, asking what the problem is, is to look at it from the problem of, like, well, who should get credit?
+
+149
+00:18:50,490 --> 00:18:54,020
+Right? And the answer almost never is one person right on the end.
+
+150
+00:18:54,180 --> 00:19:07,050
+Because, uh, look, it's easy to to kind of tell who is, like the last mile person, who is responsible, really, who is the guy who actually publishes, but the pers the person who publishes the thing.
+
+151
+00:19:07,210 --> 00:19:11,650
+Like, he did not invent or, you know, she did not invent the idea in a cave, right?
+
+152
+00:19:11,810 --> 00:19:23,590
+Like the uh red? Existing work, synthesized existing work, talks to people, created one version of an idea, found someone who broke that version of an idea, fixed it, created a better version of the idea.
+
+153
+00:19:23,750 --> 00:19:25,730
+There is always this collaborative process.
+
+154
+00:19:25,910 --> 00:19:34,430
+And each of the ideas that they built on are also ideas that themselves, you know, built on other, on other ideas.
+
+155
+00:19:34,590 --> 00:19:38,290
+And like, there is this big tree of, like, where the credit comes from.
+
+156
+00:19:38,530 --> 00:19:46,130
+So one thing to think about is, like, people, I think, have for a long time been thinking about, like, the kind of the providence problem, right?
+
+157
+00:19:46,290 --> 00:19:54,020
+So this is, like, blockchain, supply chain applications, like, people talked a lot about this in 2015 to 2017, right?
+
+158
+00:19:54,080 --> 00:20:02,900
+Like, basically, if you have, um, like, if you get some product, how do you tell, like, you know, which country the different parts actually came from?
+
+159
+00:20:03,060 --> 00:20:04,640
+How do you tell, like, what's trustworthy?
+
+160
+00:20:04,980 --> 00:20:10,840
+Can you, like, put cryptographic links at every step in the supply chain, check them on I check them on chain, and all of that?
+
+161
+00:20:11,100 --> 00:20:13,020
+Like, we could do that for public goods as well, right?
+
+162
+00:20:13,120 --> 00:20:21,550
+We could try to, like, take the concept of citations and and formalize it, make them cryptographic, make them more insensive compatible, have
+
+163
+00:20:21,980 --> 00:20:32,390
+a kind of more this kind of richer information about them, and just like, have more information out there that could actually be used to properly compensate, sort of everyone
+
+164
+00:20:32,470 --> 00:20:38,060
+all along the chain of, like, actually producing some public, um N-F ts for public goods.
+
+165
+00:20:38,220 --> 00:20:53,150
+Uh, so like, N-F-T-S have always been this sort of challenging topic for me, because, on the one hand, like, I think N-F ts could be like a really amazing fundraising tool, and they could really help and, like, raising money
+
+166
+00:20:53,510 --> 00:20:57,870
+for things that really need it and things that don't otherwise have business models, right?
+
+167
+00:20:57,930 --> 00:20:59,030
+And they kind of already do.
+
+168
+00:20:59,050 --> 00:21:12,000
+There is like a lot of artists that are around the world, and even people in places like, you know, southeast Asia and Africa and Latin America that like, really do get included in have finds a way of, like, making revenue through the NFT ecosystem.
+
+169
+00:21:12,120 --> 00:21:19,460
+But on the other end, like NFTS, can sometimes become this sort of ridiculous thing, where people, are, you creating $3000000 monkeys?
+
+170
+00:21:19,620 --> 00:21:30,100
+Right? So, like, to me, like, I guess my ideal world is like, not, uh, like, I don't, I don't want to hate n fts, and I also don't want to uncritically like n Fts.
+
+171
+00:21:30,260 --> 00:21:32,420
+But so, like, I want to build better and Fts, right?
+
+172
+00:21:32,580 --> 00:21:40,640
+And, you know, I want to, it would be nice if we can, like, try to find a way to kind of get and make n FTS benefit public goods more, right?
+
+173
+00:21:40,860 --> 00:21:48,500
+So, or, you know, if you produce some, like, some, uh, public good, um, and then, like, f find a way to how to sell some m.
+
+174
+00:21:48,600 --> 00:21:52,840
+f. T. for it, and the public good, like, you know, it could be some scientific result.
+
+175
+00:21:53,000 --> 00:21:56,680
+It could be a work of art, um, it could be a blog post.
+
+176
+00:21:56,840 --> 00:22:05,750
+It could be an idea of basically find ways to kind of create it in a the ecosystem that people want to participate in.
+
+177
+00:22:05,910 --> 00:22:22,310
+Um, but um. And we are, at the same time, like, you actually ensure that the people who get the funding aren't just kind of like very flashy and famous people at the end of the chain, but try to actually make sure that sort of, the entire, you know, intellectual supply chain gets compensated.
+
+178
+00:22:22,470 --> 00:22:26,840
+Well, uh, so a lot of, like, I think, interesting ideas to work on there.
+
+179
+00:22:27,000 --> 00:22:42,990
+Um, better Dell governance. So I think Dows are great, and lots of people are doing Dallas, but at the same time, like dows have a lot of problems in governance, like their governance is in general, I think it's like either centralized or attackable.
+
+180
+00:22:43,310 --> 00:22:46,790
+And like, we see a lot, sometimes some pretty scary attacks.
+
+181
+00:22:46,950 --> 00:23:01,290
+Like last I think very recently, there was like a stable coin that got drained because someone bought up 51% of the supply of the tokens and made a governance operation to drain all the money, and did that in like, a flash flow and in a single transaction.
+
+182
+00:23:01,510 --> 00:23:10,370
+And the like, these kinds of things, like they happen because coin bait driven governance is, like, fundamentally broken, right?
+
+183
+00:23:10,530 --> 00:23:11,970
+And I've written about this many times.
+
+184
+00:23:12,130 --> 00:23:13,930
+So this is, like, you know, another post, right?
+
+185
+00:23:13,990 --> 00:23:21,210
+Talk about this, and there are ways that you can improve it on the margin, but I think ultimately you need to have governance that is not going driven.
+
+186
+00:23:21,450 --> 00:23:28,770
+And so this is also where things like Soulbound tokens, things like proof of humanity, things like proof, you know, proof of community membership, come in.
+
+187
+00:23:28,930 --> 00:23:34,860
+Like, we need to have governance that depends on things other than just, you know, to like, token ownership.
+
+188
+00:23:35,020 --> 00:23:42,590
+And we need to, like, even get away from this idea that the purpose of a dow is, like, fulfilling the will of the token holders, right?
+
+189
+00:23:42,750 --> 00:23:50,810
+There are other stakeholders that matter to So one of the directions to go is of non coin driven governance platforms.
+
+190
+00:23:51,010 --> 00:23:55,130
+And like I've talked about, like, ideas for how to do this in a couple of places.
+
+191
+00:23:55,290 --> 00:24:01,930
+But there is also the the problem of, like, actually building Dow governance tools that use those ideas, right?
+
+192
+00:24:02,090 --> 00:24:09,330
+Like today, everyone forks compound, because there's just lots of really good tools that are make Dow is easy to operate.
+
+193
+00:24:09,490 --> 00:24:14,390
+If you assume that you're down a coin, voting down and for its compound, there aren't good tools.
+
+194
+00:24:14,610 --> 00:24:19,760
+If you want to build a down some other way, if you want to build a down some other way, you have to do things yourself, right?
+
+195
+00:24:19,920 --> 00:24:24,920
+And it's like, you know, in the last century, you know, we had, like, nobody gets fired for buying I-B-M or or.
+
+196
+00:24:25,080 --> 00:24:28,480
+And here it's like, nobody gets fired for for king compound, right?
+
+197
+00:24:28,640 --> 00:24:35,100
+But I think more people should get fired for for working compound, and more people should get rewarded for, like, actually trying something different.
+
+198
+00:24:35,350 --> 00:24:38,890
+So, you know, we have to actually build those tools and then make it easier.
+
+199
+00:24:39,450 --> 00:24:42,270
+Direction too is better communication platforms, right?
+
+200
+00:24:42,430 --> 00:24:44,770
+Like, governance isn't just about voting.
+
+201
+00:24:44,960 --> 00:24:46,520
+Voting is the last step in governance.
+
+202
+00:24:46,680 --> 00:25:09,250
+The steps that comes before is like, how do you actually create ideas, come to consent us on ideas, even, like, improve ideas over time, and, like, get feedback even before the final vote happens, so that, you know, you actually can, like, better, find an idea that makes, say, 90% of the community happy, instead of just making 51% of the community happy.
+
+203
+00:25:09,590 --> 00:25:18,930
+So better communication platforms. I mean, there definitely are projects that are trying to kind of do this decentralized governance communication thing.
+
+204
+00:25:19,090 --> 00:25:22,690
+So, I mean, like Radical Exchange people, they talk a lot about Polis, right?
+
+205
+00:25:22,710 --> 00:25:29,990
+It's this platform for and of finding ideas that different sub commun-, different sub communities that can can
+
+206
+00:25:30,210 --> 00:25:33,370
+agree on. And in Argerytong from what Taiwan really likes it.
+
+207
+00:25:33,390 --> 00:25:34,390
+And, and, uh, it
+
+208
+00:25:34,610 --> 00:25:39,350
+gets used a lot there. So that's one good example, but you can look at that.
+
+209
+00:25:39,510 --> 00:25:42,710
+And, but I think there's also room for, like, a lot more experiments here.
+
+210
+00:25:42,870 --> 00:25:47,740
+But, you know, in general, I think, like, dows need better governance, dollars need better communication.
+
+211
+00:25:47,900 --> 00:25:49,700
+So, lots of things to do here.
+
+212
+00:25:49,860 --> 00:25:51,900
+So those are just a few ideas.
+
+213
+00:25:52,060 --> 00:25:54,030
+I mean, there's plenty more ideas
+
+214
+00:25:54,260 --> 00:26:00,260
+that you can try, but I think, you know, there's a lot of really interesting directions set to work on.
+
+215
+00:26:00,420 --> 00:26:08,250
+There's a lot of very exciting potential in this space that exists now that did not exist two years ago.
+
+216
+00:26:08,410 --> 00:26:11,890
+But there's also still a lot of stuff that needs to be worked on.
+
+217
+00:26:12,050 --> 00:26:21,590
+And, you know, I hope that people here can be a part of the solution.

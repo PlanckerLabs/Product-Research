@@ -23,6 +23,7 @@
 
 #### 1.VB in ETH Seoul
 + [ETH Seoul: Ideas for things worth building with Vitalik Buterin](https://www.youtube.com/watch?v=_5hUNqWC5es)
++ Get the English and Chinese SRT:[EN_vb.srt](./docs/EN_vb.srt),[CHS_vb.srt](./docs/CHS_vb.srt),[CHSEN_vb.srt](./docs/CHSEN_vb.srt)
 
 #### 2.VB in ETHCC
 + [Vitalik Buterin : Things that matter outside of defi](https://www.youtube.com/watch?v=oLsb7clrXMQ&ab_channel=GrandAmphiTh%C3%A9atre)
