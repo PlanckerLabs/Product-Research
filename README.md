@@ -21,7 +21,7 @@
 ## Topics
 ### VB talked
 
-#### 1.VB in Mexico talking video
+#### 1.VB in ETH Seoul
 + [ETH Seoul: Ideas for things worth building with Vitalik Buterin](https://www.youtube.com/watch?v=_5hUNqWC5es)
 
 #### 2.VB in ETHCC
@@ -29,4 +29,4 @@
 
 ### ESP Wish List
 
-+ @eason Todo
++ @eason Todo:tornado:
